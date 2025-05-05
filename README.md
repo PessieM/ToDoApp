@@ -3,7 +3,7 @@
 
 **Assignment:** Homework 8: React State Management - To Do App
 
-**Due Date:** May 4, 2025
+**Due Date:** May 5, 2025
 
 **Published by:** Pessie Mittelman
 
