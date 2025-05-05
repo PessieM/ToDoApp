@@ -23,7 +23,7 @@ function TodoApp() {
     }
 
     return (
-        <div>
+        <div className="container">
             <h1 className="header">To Do List</h1>
             <form className="form">
                 <input className="input-field" type="text" value={currentInput} onChange={handleInputChange}/>
